@@ -1,5 +1,11 @@
 # CryptoClustering
 
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
+
 ## Introduction
 
 This repository contains a set of tools and code in Python designed to analyze and cluster cryptocurrency market data using clustering and principal component analysis (PCA) techniques. The main purpose of this project is to provide investors and analysts with a tool that allows them to understand and categorize the behavior of different cryptocurrencies based on their historical price change percentages.
