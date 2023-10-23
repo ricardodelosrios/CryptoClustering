@@ -69,6 +69,11 @@ By following the steps outlined in this code, users can effectively cluster cryp
 
 the code provides a structured approach to analyzing and clustering cryptocurrency market data. It enables users to explore, preprocess, cluster, and visualize data, ultimately helping them make data-driven decisions and gain a better understanding of the behavior of cryptocurrencies in the market.
 
+## Developer
+
+[<img src="https://avatars.githubusercontent.com/u/133066908?v=4" width=115><br><sub>Ricardo De Los Rios</sub>](https://github.com/ricardodelosrios) 
+
+
 
 
 
